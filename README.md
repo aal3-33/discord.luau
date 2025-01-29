@@ -7,4 +7,4 @@ If you ever want to use this for fun go ahead lol but if you run into some probl
 
 If you are wondering how this is possible i dont know.
 
-** RIGHT NOW MOST MY SHIT IS RANDOM BUT I MIGHT TURN IT INTO AN ACTUAL USABLE LIBARY **
+**RIGHT NOW MOST MY SHIT IS RANDOM BUT I MIGHT TURN IT INTO AN ACTUAL USABLE LIBARY**
